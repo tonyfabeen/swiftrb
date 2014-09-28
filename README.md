@@ -1,6 +1,6 @@
 # Swiftrb
 
-TODO: Write a gem description
+  A Swift to Ruby Transcompiler
 
 ## Installation
 
@@ -19,6 +19,11 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+
+## Development
+
+### Generate Scanner
+  $ rex lib/swiftrb/lexer/swiftrb_scanner.rex -o lib/swiftrb/lexer/scanner.rb
 
 ## Contributing
 
