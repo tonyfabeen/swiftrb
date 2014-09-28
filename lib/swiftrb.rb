@@ -1,5 +1,6 @@
 require "swiftrb/version"
+require "swiftrb/lexer/scanner"
+require "swiftrb/lexer/lexer"
 
 module Swiftrb
-  # Your code goes here...
 end
